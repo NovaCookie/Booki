@@ -12,7 +12,7 @@ Simple projet en HTML & CSS (c'est jolie)
 Avec un cerveau (et encore), 10 doigts et des yeux (autant que vous voulez ça change pas grand chose).
 
 ## Prérequis ##
-Avoir ce qu'il y a juste au dessus. 
+Avoir ce qu'il y a juste au dessus et un IDE ça peut être cool (moi j'utilise Visual Studio Code). 
 
 ---------------
 Auteurs    
